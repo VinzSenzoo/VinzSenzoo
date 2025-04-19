@@ -12,6 +12,15 @@
 
 ---
 
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://saweria.co/vinzsenzoo" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-Donate-orange?style=for-the-badge&logo=ko-fi" alt="Donate on Saweria" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
