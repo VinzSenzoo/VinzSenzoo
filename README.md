@@ -20,6 +20,14 @@
   </a>
 </p>
 
+**Or via EVM Wallet:**
+
+0xec9ab10d8b7A4113018853202C2FDd95072BC81f
+
+> Supported networks: Ethereum, BSC, Arbitrum, Optimism, Polygon, ETC..
+
+---
+
 
 ## 📊 GitHub Stats
 
